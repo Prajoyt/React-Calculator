@@ -1,0 +1,12 @@
+
+.nav {
+  width: 23vw;
+  margin: auto;
+  background-color:#f7fd49;
+  box-shadow: 0 0 2px 3px #878787  ;
+}
+.nav h1 {
+  text-shadow: 2px 2px #DADADA ;
+  color:black;
+  text-align: center;
+}
